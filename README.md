@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Sobre mim:
+<h1>Sobre mim</h1> <h2>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&layout=pie)](https://github.com/diegoCodeJavascript))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&langs_count=8)
+
 
 <!--
 **diegoCodeJavascript/diegoCodeJavascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
