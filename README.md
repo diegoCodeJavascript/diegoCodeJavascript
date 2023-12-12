@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <h1>Sobre mim</h1> <h2>
+<p>Bem vindo ao meu perfil, sou Desenvolvedor/Programador PHP, Gosto de desenvolver Sistemas web, me sinto satisfeto a nível pessoal e proficional,<br/> utilizando as tecnologias html, css3 e php. </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&hide_progress=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&langs_count=8)
 
 
