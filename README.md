@@ -2,7 +2,9 @@
 
 Sobre mim:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoCodeJavascript&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoCodeJavascript&layout=pie)](https://github.com/diegoCodeJavascript))
+
 <!--
 **diegoCodeJavascript/diegoCodeJavascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
